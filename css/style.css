@@ -1,0 +1,49 @@
+.clr{color:#0000FF;
+  
+}
+.body{               
+  font-family:Arial;   
+  width:50%px;
+  color:#407294;
+}
+.mkb{
+  width:50%;
+  float:left;
+  }
+
+.pic{
+  width:100%;
+  padding-top:30%;
+}
+.primary-btn{
+  color:white;
+  background-color:#8845f4;
+  padding:3px 42px 3px 42px;
+  border-radius:20px;
+  text-decoration:none;
+  
+}
+.h1{
+  font-size:3em;
+}
+.container{
+  padding-left:5%;
+  display:inline-block;
+}
+.experiences {
+  padding:30px;
+  margin:30px;
+  background-color:rgb(200,200,300);
+  border-radius:20px;
+  }
+.experiences-item{
+  padding:10px;
+  border-left:1px solid rgba(137,130,247,.2);
+  }
+
+
+
+
+
+
+
